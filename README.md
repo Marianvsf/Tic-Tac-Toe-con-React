@@ -43,7 +43,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 Contacto
 Para más información, puedes contactar a:
 
-Tu Nombre - tu.email@example.com
+Marian Suparez- marianvsf@gmail.com
 
 ### Consideraciones:
 - Asegúrate de reemplazar `https://github.com/tu-usuario/tic-tac-toe.git` y la información de contacto con tu propia información.
