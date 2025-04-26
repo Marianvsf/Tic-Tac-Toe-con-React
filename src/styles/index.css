@@ -3,5 +3,8 @@ body {
     color: white;
 }
 .board {
+    margin: auto;
     background-color: grey;
+    width: 600px;
+    height: 600px;
 }
